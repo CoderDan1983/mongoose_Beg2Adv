@@ -1,0 +1,17 @@
+{
+  "name": "mongoose_beg2adv",
+  "version": "1.0.0",
+  "description": "I followed a mongoose tutorial.  this is the result",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mongoose",
+    "beginner",
+    "advanced"
+  ],
+  "author": "daniel hong",
+  "license": "ISC"
+}
